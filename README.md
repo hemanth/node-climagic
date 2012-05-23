@@ -1,1 +1,1 @@
-# Visit the site [climagic-node](http://hemanth.github.com/climagic-node)
+# Visit the site [climagic-node](hemanth.github.com/climagic-node)
