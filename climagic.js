@@ -1,5 +1,7 @@
 nom = require('nom');
-nom("http://climagic.org", function(err, $) {
-  console.log($('tt').text());
+
+cmd = function(){nom("http://climagic.org", function(err, $) {
+            console.log($('tt').text());
+            });
 });
 
