@@ -1,0 +1,17 @@
+{
+  "author": "Hemanth.HM <hemanth.hm@gmail.com> (http://h3manth.com)",
+  "name": "climagic",
+  "description": "Get todays command from climagic.org",
+  "version": "0.0.0",
+  "homepage": "http://hemanth.github.com/node-climagic",
+  "repository": {
+    "url": "climagic"
+  },
+  "main": "climagic.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
