@@ -5,4 +5,4 @@ cmd = function(){nom("http://climagic.org", function(err, $){
       });
 }
 
-export.cmd = cmd;
+exports.cmd = cmd;
